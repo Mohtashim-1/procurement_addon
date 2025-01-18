@@ -4,4 +4,4 @@ app for procurement
 
 #### License
 
-mit
+mit# procurement_addon
